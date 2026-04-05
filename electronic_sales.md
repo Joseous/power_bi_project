@@ -61,15 +61,13 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
 ### 📌 Key Measures
 
 #### 1. Total Sales
-```DAX
-Total Sales = SUM(Sales[SalesAmount])
 
-Profit Margin = DIVIDE(SUM(Sales[Profit]), SUM(Sales[SalesAmount])) * 100
 
 ## PROJECT SOLUTIONs
 **Data Cleaning**
 * OrderDate is in Date data type
 <img width="950" height="482" alt="image" src="https://github.com/user-attachments/assets/a85b63c0-7567-4d4f-bfba-901ff12a5e9a" />
+
 
 
 
