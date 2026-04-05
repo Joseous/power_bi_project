@@ -83,6 +83,14 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
     
     <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/6fb2d234-d1c4-4c5c-9b4d-fe5a388c89f9" />
 
+    * **Profit Margin Calculation**
+
+      ```Profit Margin = DIVIDE(SUM(Electronics_Sales[Profit]), SUM(Electronics_Sales[SalesAmount])) * 100```
+      
+      <img width="954" height="363" alt="image" src="https://github.com/user-attachments/assets/3a3e3f97-3315-4a6a-acc0-ade683a4f44d" />
+      
+
+
     
 
 
