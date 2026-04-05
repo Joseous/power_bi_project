@@ -78,7 +78,8 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
   Use **DAX (Data Analysis Expressions)** to derive key insights.
   
   * **Calculate Total Sales**
-    `Total Sales = SUM(Electronics_Sales[SalesAmount])`
+    
+    ```Total Sales = SUM(Electronics_Sales[SalesAmount])```
     <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/6fb2d234-d1c4-4c5c-9b4d-fe5a388c89f9" />
 
     
