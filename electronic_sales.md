@@ -98,6 +98,27 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
    
         <img width="911" height="469" alt="image" src="https://github.com/user-attachments/assets/5b62755d-6d4c-4d4b-be80-4221a865a598" />
 
+### Building the Dashboard
+
+**The following Dashboard Represents**
+* Total Sales
+* Total Profit
+* Profit Margin
+* Bar and Column chart representing Sales by product, Region and Category
+
+  <img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/cfbd971a-b3ef-4d3e-93e4-cfce558a7516" />
+
+  **The following Dashboard Represents**
+  * Sales Trends By Month
+  * Sales Distribution By Currency
+  * Sales Distribution By City(Visual Map)
+  * Slicers By Customer, Product Category, and Time Period
+ 
+    <img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/f523ac0d-f157-4abf-a3a2-a481fe0b7bd1" />
+
+
+    
+
         
       
       
