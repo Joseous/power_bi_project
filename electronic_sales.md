@@ -73,7 +73,7 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
 * **Data is in correct Formats**
 * **No spelling Errors**
 
-  **Data Analysis**
+  ### Data Analysis
   
   Use **DAX (Data Analysis Expressions)** to derive key insights.
   
@@ -88,6 +88,18 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
       ```Profit Margin = DIVIDE(SUM(Electronics_Sales[Profit]), SUM(Electronics_Sales[SalesAmount])) * 100```
       
       <img width="954" height="363" alt="image" src="https://github.com/user-attachments/assets/3a3e3f97-3315-4a6a-acc0-ade683a4f44d" />
+
+      **Currency Conversion**
+      
+      <img width="959" height="380" alt="image" src="https://github.com/user-attachments/assets/78d96653-dfd5-42b8-ab36-3c567005ef1f" />
+
+    ### Data Modeling
+      * **Create Dimension Tables**
+   
+        <img width="911" height="469" alt="image" src="https://github.com/user-attachments/assets/5b62755d-6d4c-4d4b-be80-4221a865a598" />
+
+        
+      
       
 
 
