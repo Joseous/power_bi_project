@@ -65,8 +65,23 @@ Use **DAX (Data Analysis Expressions)** to derive key insights.
 
 ## PROJECT SOLUTIONs
 **Data Cleaning**
-* OrderDate is in Date data type
+* **OrderDate is in Date data type**
 <img width="950" height="482" alt="image" src="https://github.com/user-attachments/assets/a85b63c0-7567-4d4f-bfba-901ff12a5e9a" />
+
+* **No missing Data**
+* **No Pseudonyms and Invalid Entries**
+* **Data is in correct Formats**
+* **No spelling Errors**
+
+  **Data Analysis**
+  
+  Use **DAX (Data Analysis Expressions)** to derive key insights.
+  
+  * **Calculate Total Sales**
+    `Total Sales = SUM(Electronics_Sales[SalesAmount])`
+    <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/6fb2d234-d1c4-4c5c-9b4d-fe5a388c89f9" />
+
+    
 
 
 
